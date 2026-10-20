@@ -1,0 +1,15 @@
+{
+	"name": "adf-workspace-5648745",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a06d2a1-2e24-4967-84ae-e97e299bf476",
+		"tenantId": "d25020a3-6462-4441-bb84-b8a9434deceb"
+	}
+}
